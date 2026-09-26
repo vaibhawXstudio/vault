@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+demo_nodes/
+data_nodes/
+vault_test_*/
+vault_unit_*/
+.coverage
+.env
+.venv
+env/
+venv/
